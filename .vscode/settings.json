@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2e845448-b1ba-4cf0-be4a-a7db6e28e4e2/resourceGroups/RG_IDAT/providers/Microsoft.Web/sites/testidat",
+    "appService.deploySubpath": "."
+}
